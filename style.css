@@ -1,1 +1,250 @@
-.icon1
+.imaage img{
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+.child{
+    position: absolute;
+    
+      top: 70%;
+      left: 80%;
+      right: 30%;
+      color: aliceblue;
+      width: 100%;
+      font-size: smaller;
+    transform: translate(-50%,-50%);
+   padding: 150px;
+    
+    
+}
+.child button{
+  border-radius: 0;
+  color: aliceblue;
+  background-color: rgb(214, 156, 79);
+}
+.qualityrow{
+    
+}
+.creative i{
+    font-size: 60px;
+    margin-top: 20px;
+    color: #AB7442;
+    background-color:rgb(216, 210, 210);    
+    
+
+}
+.text1{
+    font-size: 70px;
+    color: rgb(213, 213, 213);
+    font-weight:700;
+    position: absolute;
+    margin-left: 110px;
+     
+    
+    
+
+
+}
+
+.quality i{
+    font-size: 60px;
+    margin-top: 20px;
+    color: #AB7442;
+    background-color:rgb(238, 234, 234);
+    margin-left: 60px;
+    
+}
+.text2{
+    font-size: 70px;
+    color: rgb(238, 234, 234); 
+    font-weight:700;
+    
+
+
+}
+.free i{
+    font-size: 60px;
+    margin-top: 20px;
+    color: #AB7442;
+    background-color:rgb(238, 234, 234);
+    margin-left: 60px;
+
+}
+.text3{
+    font-size: 70px;
+    color: rgb(238, 234, 234);
+    font-weight:700;
+   
+}
+.customer i{
+    font-size: 60px;
+    margin-top: 20px;
+    color: #AB7442;
+    background-color:rgb(216, 210, 210);
+    margin-left: 60px;
+}
+.text4{
+    font-size: 70px;
+    color: rgb(183, 183, 183);
+    font-weight:700;
+   
+}
+.captions{
+    color:rgb(23, 23, 23);
+    font-size: 20px;
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+.cap1 {
+    
+    transform: translate(-20%);
+}
+.cap2 {
+    
+    transform: translate(-20%);
+}
+.cap3 {
+    
+    transform: translate(-20%);
+}
+.cap4{
+    
+    transform: translate(-20%);
+}
+/* .........................about........................ */
+.aboutus{
+    
+   
+    margin-top: 50px;
+    background-color:rgb(225, 216, 216);
+  
+}
+.myimage img{
+    width: 100%;
+    height: 350px;
+}
+.myimage{
+    margin-top: 50px;
+}
+/* .para1 h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: 900;
+    font-size: 40px;
+    text-align: center;
+
+}
+.paraicon{
+    display: flex;
+    gap: 15px;
+}
+.one234 h1{
+    
+    font-size: 50px;
+    color: #AB7442;
+    font-weight:700;
+    */
+
+}
+
+.fafacirclle i{
+  
+  font-size: 40px;
+ color: #AB7442;
+ background-color:white;
+ margin-top: 10px;
+ 
+    
+   
+}
+.fafacheck i{
+    font-size: 40px;
+    color: #AB7442;
+    margin-left: 150px;
+    margin-top: 10px;
+    background-color:white;
+}
+.paraicon2 p{
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.done{
+    
+    margin-left: 14%;
+
+}
+.happy{
+    position:relative;
+   transform: translate(-50%);
+}
+.explore{
+   
+    border: 1px solid #AB7442;
+    font-size: 22px;
+    font-family: serif
+    ;
+    font-weight: bolder;
+    background-color: #AB7442;
+    border-radius: 5px;
+   
+
+}
+.exploremore button{
+  
+margin-top: 50px;
+border-radius: 5%;
+color: aliceblue;
+height: 45px;
+border: black;
+background-color: #AB7442;
+
+}
+
+/* .................................our services.................................... */
+.ourservices1{
+    width:100%;
+    height: 90%;
+   gap: 50px;
+   border-radius: 12px;
+}
+.ourservices1 img{
+
+}
+.secondrow{
+    gap: 50px;
+}
+/* .........................why choose us........................ */
+.qualityser i{
+    font-size: 40px;
+    color: #AB7442;
+    background-color:white;
+
+}
+.creativedes i{
+    font-size: 40px;
+    color: #AB7442;
+    background-color:white;
+
+}
+.freeconsul i{
+    font-size: 40px;
+    color: #AB7442;
+    background-color:white;
+}
+.customersup i{
+    font-size: 40px;
+    color: #AB7442;
+    background-color:white;
+}
+/* ......................testimoniol........................... */
+.testimoniol img{
+   margin-left: 600px;
+   width: 100px;
+}
+.para1 h2{
+    text-align: center;
+}
